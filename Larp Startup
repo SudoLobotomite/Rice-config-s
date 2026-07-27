@@ -1,0 +1,7 @@
+#Startup Apps
+exec-once = [workspace 2 silent] kitty
+exec-once = [workspace 2 silent] lavat
+exec-once = [workspace 2 silent] peaclock
+
+#set to workstation 2 bc my displays are chopped and I dont feel like fixing rn
+#set to whatever work station you wish to larp on
