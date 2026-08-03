@@ -1,0 +1,89 @@
+# ==============================================================================
+# FONTS & TYPOGRAPHY
+# ==============================================================================
+font_family      family="JetBrains Nerd Mono"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+
+font_size 11.0
+
+# ==============================================================================
+# WINDOW LAYOUT & TRANSPARENCY
+# ==============================================================================
+window_padding_width 3
+hide_window_decorations yes
+confirm_os_window_close 0
+
+# Set background transparency (0.0 to 1.0)
+background_opacity 0.4
+background_blur 1
+
+# ==============================================================================
+# CURSOR & MOUSE
+# ==============================================================================
+cursor_shape beam
+cursor_blink_interval -1
+mouse_hide_wait 3.0
+url_style straight
+open_url_with default
+
+# ==============================================================================
+# TERMINAL BELL
+# ==============================================================================
+enable_audio_bell no
+visual_bell_duration 0.0
+
+# ==============================================================================
+# WAYLAND / PERFORMANCE SETTINGS
+# ==============================================================================
+linux_display_server wayland
+wayland_titlebar_color system
+sync_to_monitor yes
+
+# ==============================================================================
+# COLOR SCHEME (Sakura Gate Samurai)
+# ==============================================================================
+
+foreground            #ffffff
+background            #151515
+selection_foreground  #151515
+selection_background  #ab8359
+
+# Cursor colors
+cursor                #ab8359
+cursor_text_color     #151515
+
+# URL underline color when hovering
+url_color             #d2b48c
+
+# Black (Dark Brown)
+color0  #151515
+color8  #4a4036
+
+# Red (Warm Brown)
+color1  #8f5f3b
+color9  #b77b4d
+
+# Green (Olive Brown)
+color2  #7f8a5a
+color10 #a4aa72
+
+# Yellow (Golden Brown)
+color3  #ab8359
+color11 #d2a878
+
+# Blue (Muted Brown Gray)
+color4  #70645a
+color12 #988575
+
+# Magenta (Copper Brown)
+color5  #a66f4f
+
+# Cyan (Cream)
+color6  #c8b69a
+color14 #e6d8c3
+
+# White (Sakura White)
+color7  #e8e1d8
+color15 #ffffff
