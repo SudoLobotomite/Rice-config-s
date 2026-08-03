@@ -42,7 +42,11 @@
     },
 
     "memory": {
-    "format": " {}%"
+        "format": " {}%"
+    },
+    "tray": {
+        "spacing": 8,
+        "show-passive-items": false
     },
 
     "cpu": {
